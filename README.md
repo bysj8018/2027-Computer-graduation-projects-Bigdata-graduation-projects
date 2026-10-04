@@ -329,8 +329,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | Django+Vue旅游和酒店推荐系统                                 | Django框架、Bootstrap框架、Echarts可视化、Html               |
 
 **部分项目界面演示：**
+<img width="1824" height="991" alt="05旅游" src="https://github.com/user-attachments/assets/507d31ae-8a63-4e2e-b991-a7dfc283dd85" />
 
-![输入图片说明](05%E6%97%85%E6%B8%B8.png)
 
 ### 6、房产+租房+商品房+酒店民宿
 
@@ -376,7 +376,10 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | Django宾馆管理系统+可视化+论文                               | Django框架、Bootstrap框架、Echarts可视化、Html               |
 
 **部分项目界面演示：**
-![输入图片说明](06%E7%A7%9F%E6%88%BF.png)
+
+
+<img width="1815" height="1477" alt="06租房" src="https://github.com/user-attachments/assets/6713333d-0159-4bba-9a19-2ce3843309d5" />
+
 
 
 ### 7、新闻
@@ -394,7 +397,10 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 
 **部分项目界面演示：**
-![输入图片说明](07%E6%96%B0%E9%97%BB.png)
+
+<img width="1836" height="1578" alt="07新闻" src="https://github.com/user-attachments/assets/c8a41694-20e4-4c78-aff9-0f8cb37f9832" />
+
+
 
 
 
@@ -443,7 +449,10 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | Django国产动漫推荐系统+可视化+论文                          | Django框架、Bootstrap框架、Echarts可视化、Html               |
 
 **部分项目界面演示：**
-![输入图片说明](08%E5%B0%8F%E8%AF%B4.png)
+
+
+<img width="1740" height="1497" alt="08小说" src="https://github.com/user-attachments/assets/04669829-a475-45aa-bb8e-3f31258f007d" />
+
 
 
 ### 9、食品+美食+餐饮外卖
@@ -484,7 +493,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](09%20%E7%BE%8E%E9%A3%9F.png)
+<img width="1732" height="1360" alt="09 美食" src="https://github.com/user-attachments/assets/0fee5624-3e0f-47f6-861f-2d71faf46814" />
+
 
 
 
@@ -554,8 +564,10 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 
 **部分项目界面演示：**
+<img width="1806" height="1943" alt="10汽车" src="https://github.com/user-attachments/assets/8d1d4dd3-93cc-41e2-b58d-58338a3e620b" />
 
-![输入图片说明](10%E6%B1%BD%E8%BD%A6.png)
+
+
 
 
 ### 11、气象+地理+水文
@@ -586,7 +598,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 22 气象数据分析大屏+爬虫（有付费论文）                       | Flask框架、sqlite数据库、Echarts可视化、数据大屏、爬虫技术   |
 | 23 天气实时查询+预报+空气质量+生活指数+可视化（有付费论文）  | Flask框架、sqlite数据库、Echarts可视化、和风天气API、HTML    |
 **部分项目界面演示：**
-![输入图片说明](11%E5%A4%A9%E6%B0%94.png)
+<img width="1594" height="1584" alt="11天气" src="https://github.com/user-attachments/assets/1cb74a7f-2b9f-40fa-8323-eaf2b2bdb6e4" />
+
+
 
 
 ### 12、农业+生态环境+环保（农林牧渔）
@@ -612,7 +626,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 17 农牧水产数据分析+可视化+机器学习预测算法（有付费论文）    | Django框架、Echarts可视化、机器学习、预测分析、聚类分析、分类、关联规则挖掘、相关性分析、特征重要性 |
 
 **部分项目界面演示：**
-![输入图片说明](12%E5%86%9C%E4%B8%9A.png)
+
+<img width="1721" height="927" alt="12农业" src="https://github.com/user-attachments/assets/4c54a37f-dd47-4db5-b30e-f7572f02cb55" />
+
 
 
 ### 13、财经+股票+金融
@@ -636,7 +652,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 19 股票数据分析+数据挖掘+预测（有付费论文）           | Django框架、Echarts可视化、机器学习、股价预测分析、聚类分析、分类、关联规则挖掘、相关性分析、特征重要性、时序分析、降维分析 |
 
 **部分项目界面演示：**
-![输入图片说明](13%E8%82%A1%E7%A5%A8.png)
+
+<img width="1719" height="1430" alt="13股票" src="https://github.com/user-attachments/assets/f14f4e2e-bc9f-4476-8f83-05722bc0cfee" />
+
 
 
 ### 14、医学+医疗医药+健康
@@ -670,7 +688,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](14%E5%8C%BB%E7%96%97.png)
+
+<img width="1610" height="1305" alt="14医疗" src="https://github.com/user-attachments/assets/c709c4c3-5aa7-494b-b5f6-6d715231744a" />
+
 
 
 
@@ -730,7 +750,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](15%E6%95%99%E8%82%B2.png)
+
+<img width="1786" height="1500" alt="15教育" src="https://github.com/user-attachments/assets/1e408ba5-87a8-4c03-b7d0-d94c40770f0b" />
+
 
 
 
@@ -769,7 +791,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 
 **部分项目界面演示：**
-![输入图片说明](16%20%E5%BE%AE%E5%8D%9A.png)
+
+<img width="1787" height="1427" alt="16 微博" src="https://github.com/user-attachments/assets/96e81a4b-9d91-4b76-939f-0df0c46c85bc" />
+
 
 ### 17、人脸识别
 
@@ -803,7 +827,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](17%E4%BA%BA%E8%84%B8.png)
+<img width="1764" height="1427" alt="17人脸" src="https://github.com/user-attachments/assets/71bea530-674b-4e5b-91e5-e19fdf1f5fa9" />
+
+
 
 
 
@@ -837,7 +863,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](18%E8%BD%A6%E7%89%8C.png)
+
+<img width="1782" height="1702" alt="18车牌" src="https://github.com/user-attachments/assets/0154a9dc-7c80-4511-9a51-fd5918445294" />
+
 
 
 
@@ -871,7 +899,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](19%E6%8A%96%E9%9F%B3.png)
+<img width="1653" height="1466" alt="19抖音" src="https://github.com/user-attachments/assets/6445d829-37c1-4fb0-8bcb-dd13e95aa141" />
+
+
 
 ### 20、体育+游戏娱乐+彩票
 
@@ -896,8 +926,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
+<img width="1697" height="1043" alt="20游戏" src="https://github.com/user-attachments/assets/90151afd-af50-454e-ba4c-7950ec4bc2ab" />
 
-![输入图片说明](20%E6%B8%B8%E6%88%8F.png)
 
 
 ### 21、 财务税务+行政+银行
@@ -998,7 +1028,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 25 微博评论情感分析+数据可视化+BERT模型（有付费论文）        | Flask框架、SQLite数据库、Echarts可视化、BERT-base-chinese、微博评论 |
 
 **部分项目界面演示：**
-![输入图片说明](28%E8%AF%84%E8%AE%BA.png)
+<img width="1776" height="956" alt="28评论" src="https://github.com/user-attachments/assets/55d5eace-ad23-472f-a910-43cecd1cda38" />
+
+
 
 
 ### 29 、推荐系统
@@ -1129,7 +1161,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](%E6%9C%AA%E5%88%86%E7%B1%BB.png)
+<img width="1777" height="1494" alt="未分类" src="https://github.com/user-attachments/assets/18c43f3e-f64e-4914-89f7-b634c3d8e5ea" />
+
+
 
 
 ## 三、深度学习项目
@@ -1166,7 +1200,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 25 智慧交通检测识别+车流量统计分析+可视化+安全预警           | Python语言、Django框架、Vue前端、YOLOv8模型、Echarts可视化、torch框架、OpenCV、深度学习 |
 
 **部分项目界面演示：**
-![输入图片说明](01%E6%B7%B1%E5%BA%A6-%E4%BA%A4%E9%80%9A.png)
+<img width="1476" height="1847" alt="01深度-交通" src="https://github.com/user-attachments/assets/eea5729d-f6dd-41af-b2a5-44318e77cdec" />
+
 
 
 ### 2、交通信号标志识别
@@ -1188,7 +1223,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 
 **部分项目界面演示：**
-![输入图片说明](02%E4%BA%A4%E9%80%9A%E6%A0%87%E5%BF%97.png)
+
+<img width="1353" height="926" alt="02交通标志" src="https://github.com/user-attachments/assets/e7210770-fa3f-4730-a44b-a8f1f394711d" />
+
 
 
 
@@ -1210,7 +1247,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](03%E5%9E%83%E5%9C%BE.png)
+<img width="1492" height="1127" alt="03垃圾" src="https://github.com/user-attachments/assets/d4d0a2f8-82c0-4b82-a383-f1cce4d74fb9" />
+
 
 
 
@@ -1227,7 +1265,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](04%E6%B0%B4%E6%9E%9C.png)
+<img width="1486" height="1165" alt="04水果" src="https://github.com/user-attachments/assets/87749ac9-2397-44da-91ff-0ef6f1cd962b" />
+
 
 
 
@@ -1245,7 +1284,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](05%E6%83%85%E7%BB%AA.png)
+<img width="1562" height="1117" alt="05情绪" src="https://github.com/user-attachments/assets/48ccc046-4f93-4e19-836a-2d3b3cee18ce" />
+
 
 
 
@@ -1267,7 +1307,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](06%E5%8A%A8%E7%89%A9.png)
+<img width="1470" height="1185" alt="06动物" src="https://github.com/user-attachments/assets/22318741-b25c-4880-afce-b3ad5f030dab" />
+
 
 
 ### 7、植物类检测识别
@@ -1281,7 +1322,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 05 花卉检测识别系统+102种花卉+深度学习+模型训练 | Python语言、Django后端框架、Flutter前端框架、Oxford102花卉数据集、EficlentNet-B4卷积神经网络、深度学习 |
 
 **部分项目界面演示：**
-![输入图片说明](07%E6%A4%8D%E7%89%A9.png)
+<img width="1496" height="1008" alt="07植物" src="https://github.com/user-attachments/assets/4b59308f-b470-40c0-b5f0-aeb113ed447b" />
+
 
 
 
@@ -1313,7 +1355,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](08%E5%AE%89%E5%85%A8.png)
+<img width="1712" height="1698" alt="08安全" src="https://github.com/user-attachments/assets/07a075cd-b763-45b2-9745-c1c84e5deb7a" />
+
 
 
 
@@ -1330,7 +1373,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](09%E6%89%8B%E5%86%99.png)
+<img width="1621" height="1178" alt="09手写" src="https://github.com/user-attachments/assets/22e37850-2443-49c2-9e82-bc530873144d" />
+
 
 
 
@@ -1380,7 +1424,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](10.png)
+<img width="1347" height="1502" alt="10" src="https://github.com/user-attachments/assets/acc3acae-1659-4e5a-a0ed-0d6ea2cac3a4" />
+
 
 
 
@@ -1399,7 +1444,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](11.png)
+<img width="1382" height="1308" alt="11" src="https://github.com/user-attachments/assets/0cc20481-1dcc-404e-878a-7401fa8fd61a" />
+
 
 
 
@@ -1425,7 +1471,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](12.png)
+
+
 
 
 
@@ -1538,7 +1585,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](Java.png)
+<img width="1978" height="1162" alt="Java" src="https://github.com/user-attachments/assets/2eccc000-1d1e-47fc-89d1-bb472c4e12f3" />
+
 
 
 ## 五、小程序项目
@@ -1653,7 +1701,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 **部分项目界面演示：**
 
 
-![输入图片说明](%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%BB%84%E5%90%88%E5%9B%BE.png)
+<img width="1607" height="2070" alt="小程序组合图" src="https://github.com/user-attachments/assets/081f3e19-db91-4aaf-9358-094c5be597e0" />
+
 
 
 
