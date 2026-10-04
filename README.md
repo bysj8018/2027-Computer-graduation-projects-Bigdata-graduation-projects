@@ -53,7 +53,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](00spark.png)
+<img width="1799" height="2161" alt="00spark" src="https://github.com/user-attachments/assets/42361959-66e4-4bae-954e-9a9e47a9e3ab" />
+
 
 
 
@@ -115,7 +116,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](01%E6%8B%9B%E8%81%98.png)
+<img width="1259" height="1034" alt="01招聘" src="https://github.com/user-attachments/assets/2638bfee-7df7-4558-8bea-fdc6a5ac16dd" />
+
 
 
 
@@ -171,7 +173,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 | 影片数据爬取与可视化_uxq8i+论文                              | Django框架、Bootstrap框架、Echarts可视化、Html               |
 
 **部分项目界面演示：**
-![输入图片说明](02%E7%94%B5%E5%BD%B1.png)
+
+<img width="1362" height="1131" alt="02电影" src="https://github.com/user-attachments/assets/afa683f7-6018-4ba9-9d3b-1b8f090a42ab" />
+
 
 
 ### 3、音乐
@@ -203,7 +207,9 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](03%E9%9F%B3%E4%B9%90.png)
+<img width="1633" height="1341" alt="03音乐" src="https://github.com/user-attachments/assets/a8f06451-2e51-40ba-9b21-ab7aa6ffb59a" />
+
+
 
 ### 4、电商+商城购物
 
@@ -268,7 +274,8 @@ https://pan.baidu.com/s/13TP6Iy_31ltVWFUlEuMg7Q?pwd=6666
 
 **部分项目界面演示：**
 
-![输入图片说明](04%E7%94%B5%E5%95%86.png)
+<img width="1628" height="1287" alt="04电商" src="https://github.com/user-attachments/assets/0c63035c-fa31-4831-820f-e63937634928" />
+
 
 
 ### 5、旅游
